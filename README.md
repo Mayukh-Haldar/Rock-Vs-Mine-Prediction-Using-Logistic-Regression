@@ -54,7 +54,7 @@ Start the Jupyter Notebook server and open the notebook:
 ```
 jupyter notebook
 ```
-This will open a new tab in your web browser. Navigate to the notebook file sonar-rock-vs-mine-prediction.ipynb and run the cells to see the code and results.
+This will open a new tab in your web browser. Navigate to the notebook file Sonar_Rock_vs_Mine_Prediction.ipynb and run the cells to see the code and results.
 
 
 ## Results
