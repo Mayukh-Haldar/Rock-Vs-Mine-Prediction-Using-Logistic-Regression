@@ -49,6 +49,7 @@ git clone https://github.com/Mayukh-Haldar/Rock-Vs-Mine-Prediction-Using-Logisti
 cd Rock-Vs-Mine-Prediction-Using-Logistic-Regression
 ```
 Run the Jupyter Notebook:
+
 Start the Jupyter Notebook server and open the notebook:
 ```
 jupyter notebook
