@@ -26,7 +26,7 @@ The project requires the following Python libraries:
 
 You can install the dependencies using the following command:
 ```
-pip install pandas numpy sklearn
+pip install pandas numpy scikit-learn
 ```
 ## Model Training
 The Logistic Regression model is trained using the sonar dataset. The following steps are involved in the training process:
